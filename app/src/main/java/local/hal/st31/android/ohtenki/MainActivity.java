@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
     /**
      * お天気APIにアクセスすするためのAPI Key。 ※※※※※この値は各自のものに書き換える!!※※※※※
      */
-    private static final String APP_ID = "f3b59fe721ce082a86811a1ffb1b7a20";
+    private static final String APP_ID = "";
     /**
      * リストビューに表示させるリストデータ。
      */
